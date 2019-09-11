@@ -14,7 +14,7 @@ When the container is running, inspect its logs - and locate the Jupyter Lab tok
 
 To complete setting up the container, please execute this command to open a shell session inside the container:
 
-`docker exec -it  base-timeseries  /bin/bash`
+`docker exec -it  timeseries-data-analytics  /bin/bash`
 
 then - inside the container - execute: 
 
